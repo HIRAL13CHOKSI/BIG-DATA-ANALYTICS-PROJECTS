@@ -9,4 +9,4 @@ A collection of machine-learning course projects covering regression and image c
 - [Fashion-MNIST Classification](https://github.com/HIRAL13CHOKSI/fashion-mnist-classification) — clothing-image classification and error analysis.
 - [Letter Recognition](https://github.com/HIRAL13CHOKSI/letter-recognition-ensemble-learning) — multiclass classification and ensemble experiments.
 
-The original collection also includes a playing-card image-classification notebook.
+- [Playing-Card Image Classification](https://github.com/HIRAL13CHOKSI/playing-card-image-classification) — 52-class convolutional neural network, with evaluation revision in progress.
